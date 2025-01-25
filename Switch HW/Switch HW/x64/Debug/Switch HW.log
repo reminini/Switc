@@ -1,0 +1,3 @@
+﻿  Switch HW.cpp
+D:\Nikita\C++\Switch HW\Switch HW\Switch HW.cpp(29,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Switch HW.vcxproj -> D:\Nikita\C++\Switch HW\x64\Debug\Switch HW.exe
