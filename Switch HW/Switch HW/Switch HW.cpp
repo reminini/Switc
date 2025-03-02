@@ -23,7 +23,7 @@ int main()
 	const int KolAnimal = 2;
 	string Animals[4] = { "Sirenidae","cat","dfdfs","spider" };
 	string AnimalsRus[KolAnimal][rows] = {{ "хз что это","кот","ывф","паук" }, { "2", "4", "6", "8" }};
-	n = rand() % 3 - 0;
+	n = rand() % 4 - 0;
 	cout<<n<<endl;
 	swit(n,a, Animals, AnimalsRus);
 }
